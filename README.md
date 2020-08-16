@@ -68,6 +68,9 @@ HOW TO COMPILE
 To configure, compile and install hydra, just type:
 
 ```
+git clone https://github.com/keralahacker/thc-hydra
+cd thc-hydra 
+chmod +x *
 ./configure
 make
 make install
